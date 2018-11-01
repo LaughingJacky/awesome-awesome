@@ -11,3 +11,5 @@ Collections of awesome browser-side. Just for fun & index
 * [vue](https://github.com/vuejs/awesome-vue)
 * [hack](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [CS](https://github.com/prakhar1989/awesome-courses)
+* [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+* [30 Seconds of JS](https://30secondsofcode.org/)
