@@ -13,3 +13,4 @@ Collections of awesome browser-side. Just for fun & index
 * [CS](https://github.com/prakhar1989/awesome-courses)
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [30 Seconds of JS](https://30secondsofcode.org/)
+* [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites)
