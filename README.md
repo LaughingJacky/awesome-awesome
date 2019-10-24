@@ -17,7 +17,7 @@ Collections of awesome browser-side. Just for fun & index
   - [1.0. React](#10-React)
   - [1.1. Vue](#11-Vue)
   - [1.2. Angular](#12-Angular)
-- [2. Server App](#2-Server App)
+- [2. Server App](#2-Server-App)
   - [2.0. Node](#20-Node)
 
 ## 0. Basics
@@ -34,6 +34,8 @@ Collections of awesome browser-side. Just for fun & index
 
 ## 1. Framework
 
+- [vue or react？That's a question.](https://juejin.im/post/5dad09be518825393e52d1bd)
+
 ### 1.0. React
 
 - [React](https://github.com/enaqx/awesome-react)
@@ -47,7 +49,7 @@ Collections of awesome browser-side. Just for fun & index
 
 - [Angular](https://github.com/gdi2290/awesome-angular)
 
-## 2. Server App
+## 2. Server-App
 
 ### 2.0. Node
 
