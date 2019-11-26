@@ -19,6 +19,9 @@ Collections of awesome browser-side. Just for fun & index
   - [1.2. Angular](#12-Angular)
 - [2. Server App](#2-Server-App)
   - [2.0. Node](#20-Node)
+- [3. Engineering](#3-Engineering)
+  - [3.0. Webpack](#30-Webpack)
+  - [3.1. Node Cli](#31-Node-Cli)
 
 ## 0. Basics
 
@@ -34,11 +37,12 @@ Collections of awesome browser-side. Just for fun & index
 
 ## 1. Framework
 
-- [vue or react？That's a question.](https://juejin.im/post/5dad09be518825393e52d1bd)
+- [vue or react?That's a question.](https://juejin.im/post/5dad09be518825393e52d1bd)
 
 ### 1.0. React
 
 - [React](https://github.com/enaqx/awesome-react)
+- [React Fiber](https://juejin.im/post/5dadc6045188255a270a0f85#heading-0)
 
 ### 1.1. Vue
 
@@ -53,4 +57,21 @@ Collections of awesome browser-side. Just for fun & index
 
 ### 2.0. Node
 
-- [node](https://github.com/sindresorhus/awesome-nodejs)
+- [Node](https://github.com/sindresorhus/awesome-nodejs)
+
+## 3. Engineering
+
+### 3.0. Webpack
+
+- [Fully Optimize Webpack 4 Tree Shaking](https://medium.com/@craigmiller160/how-to-fully-optimize-webpack-4-tree-shaking-405e1c76038)
+
+
+### 3.1. Node CLI
+
+- [yargs](https://github.com/yargs/yargs)
+- [prompts](https://github.com/terkelg/prompts)
+- [signale](https://github.com/klaussinani/signale)
+- [chalk](https://github.com/chalk/chalk)
+- [progress](https://github.com/visionmedia/node-progress)
+- [configstore](https://github.com/yeoman/configstore)
+- [envinfo](https://github.com/tabrindle/envinfo)
