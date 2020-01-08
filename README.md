@@ -19,6 +19,7 @@ Collections of awesome browser-side. Just for fun & index
   - [1.2. Angular](#12-Angular)
 - [2. Server App](#2-Server-App)
   - [2.0. Node](#20-Node)
+  - [2.1. Puppeteer](#21-Puppeteer)
 - [3. Engineering](#3-Engineering)
   - [3.0. Webpack](#30-Webpack)
   - [3.1. Node Cli](#31-Node-Cli)
@@ -59,11 +60,17 @@ Collections of awesome browser-side. Just for fun & index
 
 - [Node](https://github.com/sindresorhus/awesome-nodejs)
 
+
+### 2.1. Puppeteer
+
+- [Test website performance with Puppeteer](https://michaljanaszek.com/blog/test-website-performance-with-puppeteer)
+
 ## 3. Engineering
 
 ### 3.0. Webpack
 
 - [Fully Optimize Webpack 4 Tree Shaking](https://medium.com/@craigmiller160/how-to-fully-optimize-webpack-4-tree-shaking-405e1c76038)
+- [Javascript Utility Libraries](https://dmitripavlutin.com/javascript-utility-libraries/)
 
 
 ### 3.1. Node CLI
