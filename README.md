@@ -44,6 +44,7 @@ Collections of awesome browser-side. Just for fun & index
 
 - [React](https://github.com/enaqx/awesome-react)
 - [React Fiber](https://juejin.im/post/5dadc6045188255a270a0f85#heading-0)
+- [Build Your Own React](https://pomb.us/build-your-own-react/)
 
 ### 1.1. Vue
 
@@ -71,6 +72,7 @@ Collections of awesome browser-side. Just for fun & index
 
 - [Fully Optimize Webpack 4 Tree Shaking](https://medium.com/@craigmiller160/how-to-fully-optimize-webpack-4-tree-shaking-405e1c76038)
 - [Javascript Utility Libraries](https://dmitripavlutin.com/javascript-utility-libraries/)
+- [Dependency Managers](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
 
 
 ### 3.1. Node CLI
