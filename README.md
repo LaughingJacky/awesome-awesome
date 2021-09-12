@@ -11,7 +11,7 @@ Collections of awesome browser-side. Just for fun & index
 ## Awesome Frontend
 
 - [0. Basics](#0-Basics)
-  - [0.0. JS](#00-JS)
+  - [0.0. JS](#00-Javascript)
   - [0.1. CSS](#01-CSS)
   - [0.2. Browser](#02-Browser)
 - [1. Framework](#1-Framework)
