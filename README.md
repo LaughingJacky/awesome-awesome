@@ -13,6 +13,7 @@ Collections of awesome browser-side. Just for fun & index
 - [0. Basics](#0-Basics)
   - [0.0. JS](#00-JS)
   - [0.1. CSS](#01-CSS)
+  - [0.2. Browser](#02-Browser)
 - [1. Framework](#1-Framework)
   - [1.0. React](#10-React)
   - [1.1. Vue](#11-Vue)
@@ -29,12 +30,16 @@ Collections of awesome browser-side. Just for fun & index
 ### 0.0. Javascript
 
 - [30 Seconds of JS](https://30secondsofcode.org/)
-
 - [js](https://github.com/sorrycc/awesome-javascript)
 
 ### 0.1. CSS
 
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+
+### 0.2. Browser
+
+- [浏览器原理学习笔记](https://blog.csxiaoyao.com/archives/474)
+- [RenderingNG](https://developer.chrome.com/blog/renderingng-architecture/)
 
 ## 1. Framework
 
@@ -45,6 +50,7 @@ Collections of awesome browser-side. Just for fun & index
 - [React](https://github.com/enaqx/awesome-react)
 - [React Fiber](https://juejin.im/post/5dadc6045188255a270a0f85#heading-0)
 - [Build Your Own React](https://pomb.us/build-your-own-react/)
+- [A Journey Through the useState Hook](https://www.newline.co/@CarlMungazi/a-journey-through-the-usestate-hook--a4983397)
 
 ### 1.1. Vue
 
