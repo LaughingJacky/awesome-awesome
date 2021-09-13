@@ -41,6 +41,11 @@ Collections of awesome browser-side. Just for fun & index
 - [浏览器原理学习笔记](https://blog.csxiaoyao.com/archives/474)
 - [RenderingNG](https://developer.chrome.com/blog/renderingng-architecture/)
 
+### 0.3. Code OCD
+
+- [Naming Cheatsheet](https://github.com/kettanaito/naming-cheatsheet)
+- [Javascript Utility Libraries](https://dmitripavlutin.com/javascript-utility-libraries/)
+
 ## 1. Framework
 
 - [vue or react?That's a question.](https://juejin.im/post/5dad09be518825393e52d1bd)
@@ -48,6 +53,7 @@ Collections of awesome browser-side. Just for fun & index
 ### 1.0. React
 
 - [React](https://github.com/enaqx/awesome-react)
+- [React Render Tracker](https://github.com/lahmatiy/react-render-tracker)
 - [React Fiber](https://juejin.im/post/5dadc6045188255a270a0f85#heading-0)
 - [Build Your Own React](https://pomb.us/build-your-own-react/)
 - [A Journey Through the useState Hook](https://www.newline.co/@CarlMungazi/a-journey-through-the-usestate-hook--a4983397)
@@ -74,14 +80,15 @@ Collections of awesome browser-side. Just for fun & index
 
 ## 3. Engineering
 
-### 3.0. Webpack
+### 3.0. Compiler
 
 - [Fully Optimize Webpack 4 Tree Shaking](https://medium.com/@craigmiller160/how-to-fully-optimize-webpack-4-tree-shaking-405e1c76038)
-- [Javascript Utility Libraries](https://dmitripavlutin.com/javascript-utility-libraries/)
 - [Dependency Managers](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
+- [Sucrase](https://sucrase.io/)
+- [SWC](https://swc.rs/)
 
 
-### 3.1. Node CLI
+### 3.1. CLI Tools
 
 - [yargs](https://github.com/yargs/yargs)
 - [prompts](https://github.com/terkelg/prompts)
