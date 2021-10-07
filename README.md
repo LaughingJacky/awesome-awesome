@@ -57,6 +57,7 @@ Collections of awesome browser-side. Just for fun & index
 - [React Fiber](https://juejin.im/post/5dadc6045188255a270a0f85#heading-0)
 - [Build Your Own React](https://pomb.us/build-your-own-react/)
 - [A Journey Through the useState Hook](https://www.newline.co/@CarlMungazi/a-journey-through-the-usestate-hook--a4983397)
+- [Recoil: State Management for Today's React](https://www.youtube.com/watch?v=_ISAA_Jt9kI)
 
 ### 1.1. Vue
 
