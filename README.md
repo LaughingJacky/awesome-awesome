@@ -69,7 +69,6 @@ Collections of awesome browser-side. Just for fun & index
 
 - [Vue](https://github.com/vuejs/awesome-vue)
 
-
 ### 1.2. Angular
 
 - [Angular](https://github.com/gdi2290/awesome-angular)
@@ -79,7 +78,6 @@ Collections of awesome browser-side. Just for fun & index
 ### 2.0. Node
 
 - [Node](https://github.com/sindresorhus/awesome-nodejs)
-
 
 ### 2.1. Puppeteer
 
@@ -93,7 +91,6 @@ Collections of awesome browser-side. Just for fun & index
 - [Dependency Managers](https://cpojer.net/posts/dependency-managers-dont-manage-your-dependencies)
 - [Sucrase](https://sucrase.io/)
 - [SWC](https://swc.rs/)
-
 
 ### 3.1. CLI Tools
 
@@ -118,3 +115,4 @@ Collections of awesome browser-side. Just for fun & index
 - [idiom](https://github.com/AllanChain/chinese-wordle)
 - [Country](https://github.com/teuteuf/worldle)
 - [mah-jong](https://github.com/yf-dev/mahjong-hand-guessing-game)
+- [Pokémon](https://github.com/Fireblend/squirdle)
