@@ -116,3 +116,11 @@ Collections of awesome browser-side. Just for fun & index
 - [Country](https://github.com/teuteuf/worldle)
 - [mah-jong](https://github.com/yf-dev/mahjong-hand-guessing-game)
 - [Pokémon](https://github.com/Fireblend/squirdle)
+
+### -1.1. Channel
+
+- [GUI Challenges](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ)
+
+### -1.2. Financial
+
+- [黄海](https://space.bilibili.com/1163425648)
