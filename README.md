@@ -124,3 +124,7 @@ Collections of awesome browser-side. Just for fun & index
 ### -1.2. Financial
 
 - [黄海](https://space.bilibili.com/1163425648)
+
+### -1.3. Blog
+
+- [AddyOsmani](https://addyosmani.com/blog/)
