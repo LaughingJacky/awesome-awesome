@@ -128,3 +128,7 @@ Collections of awesome browser-side. Just for fun & index
 ### -1.3. Blog
 
 - [AddyOsmani](https://addyosmani.com/blog/)
+
+### -1.4. 周刊
+ - [MDH](https://www.yuque.com/chencheng/mdh-weekly/dh5u3q8fvkr4ktzb)
+ - [FE News](https://rottenpen.zhubai.love/)
