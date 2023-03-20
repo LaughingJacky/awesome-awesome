@@ -64,6 +64,7 @@ Collections of awesome browser-side. Just for fun & index
 - [A Journey Through the useState Hook](https://www.newline.co/@CarlMungazi/a-journey-through-the-usestate-hook--a4983397)
 - [Recoil: State Management for Today's React](https://www.youtube.com/watch?v=_ISAA_Jt9kI)
 - [Mini React](https://www.youtube.com/watch?v=KJP1E-Y-xyo)
+- [Map of React API](https://julesblom.com/map-of-react-api/)
 
 ### 1.1. Vue
 
