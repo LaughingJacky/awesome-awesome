@@ -28,7 +28,8 @@ Collections of awesome browser-side. Just for fun & index
   - [4.0. Nextjs](#40-Nextjs)
   - [4.1. Remix](#41-Remix)
 - [-1. Others](#-1-Others)
-  - [-1.0. Wordle](#-10-Wordle) 
+  - [-1.0. Wordle](#-10-Wordle)
+  - [-2.0. Open Data API](#-20-Open-Data-API)
 
 ## 0. Basics
 
@@ -133,3 +134,9 @@ Collections of awesome browser-side. Just for fun & index
 ### -1.4. 周刊
  - [MDH](https://mdhweekly.com/weekly)
  - [FE News](https://rottenpen.zhubai.love/)
+
+
+### -2.0. Open Data API
+
+- [Holiday](https://timor.tech/api/holiday)
+- [List_of_days_of_the_year](https://en.wikipedia.org/wiki/List_of_days_of_the_year)
