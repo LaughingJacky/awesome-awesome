@@ -30,6 +30,7 @@ Collections of awesome browser-side. Just for fun & index
 - [-1. Others](#-1-Others)
   - [-1.0. Wordle](#-10-Wordle)
   - [-2.0. Open Data API](#-20-Open-Data-API)
+  - [-3.0. DIY](#-30-Build-Your-Own-X)
 
 ## 0. Basics
 
@@ -140,3 +141,6 @@ Collections of awesome browser-side. Just for fun & index
 
 - [Holiday](https://timor.tech/api/holiday)
 - [List_of_days_of_the_year](https://en.wikipedia.org/wiki/List_of_days_of_the_year)
+
+### -3.0. DIY
+- [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
