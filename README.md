@@ -8,6 +8,8 @@ Collections of awesome browser-side. Just for fun & index
 * [CS](https://github.com/prakhar1989/awesome-courses)
 * [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites)
 * [awesome-list-updates](https://trackawesomelist.com)
+* [engineering-blogs](https://engineeringblogs.xyz/)
+* [Spike News](https://spike.news/)
 
 ## Awesome Frontend
 
