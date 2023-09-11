@@ -7,6 +7,7 @@ Collections of awesome browser-side. Just for fun & index
 * [hack](https://github.com/Hack-with-Github/Awesome-Hacking)
 * [CS](https://github.com/prakhar1989/awesome-courses)
 * [awesome-lite-websites](https://github.com/mdibaiee/awesome-lite-websites)
+* [awesome-list-updates](https://trackawesomelist.com)
 
 ## Awesome Frontend
 
