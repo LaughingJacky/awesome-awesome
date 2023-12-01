@@ -138,6 +138,8 @@ Collections of awesome browser-side. Just for fun & index
 ### -1.4. 周刊
  - [MDH](https://mdhweekly.com/weekly)
  - [FE News](https://rottenpen.zhubai.love/)
+ - [ruanyf](https://github.com/ruanyf/weekly)
+ - [潮流周刊](https://weekly.tw93.fun/)
 
 
 ### -2.0. Open Data API
