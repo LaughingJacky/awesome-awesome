@@ -30,6 +30,8 @@ Collections of awesome browser-side. Just for fun & index
 - [4. FullStack](#4-FullStack)
   - [4.0. Nextjs](#40-Nextjs)
   - [4.1. Remix](#41-Remix)
+- [5. Tools](#5-Tools)
+  - [5.1. Data](#51-Data)
 - [-1. Others](#-1-Others)
   - [-1.0. Wordle](#-10-Wordle)
   - [-2.0. Open Data API](#-20-Open-Data-API)
@@ -113,6 +115,18 @@ Collections of awesome browser-side. Just for fun & index
 ### 4.0. Nextjs
 
 ### 4.1. Remix
+
+### 4.2. Rust
+
+### 4.3. Bun
+
+## 5. Tools
+
+### 5.1. Data
+
+- [JSON](https://apvarun.github.io/graphize/)
+
+### 5.0.
 
 ## -1. Others
 
