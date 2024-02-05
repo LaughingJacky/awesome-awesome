@@ -43,6 +43,7 @@ Collections of awesome browser-side. Just for fun & index
 
 - [30 Seconds of JS](https://30secondsofcode.org/)
 - [js](https://github.com/sorrycc/awesome-javascript)
+- [jsrobot](https://lab.reaal.me/jsrobot/)
 
 ### 0.1. CSS
 
@@ -118,7 +119,21 @@ Collections of awesome browser-side. Just for fun & index
 
 ### 4.2. Rust
 
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/index.html)
+- [This Week in Rust](https://this-week-in-rust.org/)
+
 ### 4.3. Bun
+
+### 4.4. Theory
+
+- [PDF](https://zxyle.github.io/PDF-Explained/chapter1.html)
+- [视频](https://github.com/leandromoreira/digital_video_introduction/blob/master/README-cn.md)
+- [Python](https://luckrnx09.com/python-guide-for-javascript-engineers/zh-cn/)
+- [计算机教育中缺失的一课](https://missing-semester-cn.github.io/)
+- [数据库学习](https://github.com/pingcap/awesome-database-learning)
+- [系统设计101](https://github.com/ByteByteGoHq/system-design-101)
+- [清华计算机](https://rekcarc-tsc-uht.readthedocs.io/en/latest/index.html)
+- [系统设计](https://github.com/donnemartin/system-design-primer)
 
 ## 5. Tools
 
@@ -129,6 +144,19 @@ Collections of awesome browser-side. Just for fun & index
 ### 5.1. Visualization
 - [Tldraw](https://www.tldraw.com/)
 - [Mermaid](https://mermaid.js.org/)
+
+## 6. AI
+
+### 6.0. 生成式AI
+
+- [初学者课程](https://microsoft.github.io/generative-ai-for-beginners/#/translations/cn/)
+- [动手实战人工智能](https://ai.huhuhang.com/intro)
+- [初学者机器学习](https://microsoft.github.io/ML-For-Beginners/#/)
+
+### 6.1. 提示词
+
+- [PromptPerfect](https://promptperfect.jina.ai/)
+- [GPT Prompt](https://github.com/linexjlin/GPTs)
 
 ## -1. Others
 
