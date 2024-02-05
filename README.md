@@ -122,11 +122,13 @@ Collections of awesome browser-side. Just for fun & index
 
 ## 5. Tools
 
-### 5.1. Data
+### 5.0. Data
 
 - [JSON](https://apvarun.github.io/graphize/)
 
-### 5.0.
+### 5.1. Visualization
+- [Tldraw](https://www.tldraw.com/)
+- [Mermaid](https://mermaid.js.org/)
 
 ## -1. Others
 
