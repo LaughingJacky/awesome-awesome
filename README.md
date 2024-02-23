@@ -134,6 +134,7 @@ Collections of awesome browser-side. Just for fun & index
 - [系统设计101](https://github.com/ByteByteGoHq/system-design-101)
 - [清华计算机](https://rekcarc-tsc-uht.readthedocs.io/en/latest/index.html)
 - [系统设计](https://github.com/donnemartin/system-design-primer)
+- [SwiftUI](https://cs193p.sites.stanford.edu/2023)
 
 ## 5. Tools
 
