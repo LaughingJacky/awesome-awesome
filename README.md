@@ -36,6 +36,7 @@ Collections of awesome browser-side. Just for fun & index
   - [-1.0. Wordle](#-10-Wordle)
   - [-2.0. Open Data API](#-20-Open-Data-API)
   - [-3.0. DIY](#-30-Build-Your-Own-X)
+  - [-4.0. Music](#-40-Music)
 
 ## 0. Basics
 
@@ -145,6 +146,7 @@ Collections of awesome browser-side. Just for fun & index
 ### 5.1. Visualization
 - [Tldraw](https://www.tldraw.com/)
 - [Mermaid](https://mermaid.js.org/)
+- [VisualCapitalist](https://www.visualcapitalist.com/)
 
 ## 6. AI
 
@@ -194,3 +196,7 @@ Collections of awesome browser-side. Just for fun & index
 
 ### -3.0. DIY
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
+
+### -4.0. Music
+- [Jazz](https://radio.madza.dev/)
+- [Programmable](https://musicforprogramming.net/)
