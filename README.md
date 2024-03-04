@@ -122,6 +122,7 @@ Collections of awesome browser-side. Just for fun & index
 
 - [Comprehensive Rust](https://google.github.io/comprehensive-rust/index.html)
 - [This Week in Rust](https://this-week-in-rust.org/)
+- [Rust100k](https://matklad.github.io/2021/09/05/Rust100k.html)
 
 ### 4.3. Bun
 
