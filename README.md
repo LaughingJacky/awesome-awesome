@@ -138,6 +138,10 @@ Collections of awesome browser-side. Just for fun & index
 - [系统设计](https://github.com/donnemartin/system-design-primer)
 - [SwiftUI](https://cs193p.sites.stanford.edu/2023)
 
+### 4.5. History
+
+- [Web Development History](https://webdevelopmenthistory.com/index/)
+
 ## 5. Tools
 
 ### 5.0. Data
@@ -201,3 +205,7 @@ Collections of awesome browser-side. Just for fun & index
 ### -4.0. Music
 - [Jazz](https://radio.madza.dev/)
 - [Programmable](https://musicforprogramming.net/)
+
+### -5.0. Entertainment
+- [MorseCode](https://www.perry.qa/morse)
+- 
