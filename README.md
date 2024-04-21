@@ -163,15 +163,18 @@ Collections of awesome browser-side. Just for fun & index
 - [Mermaid](https://mermaid.js.org/)
 - [VisualCapitalist](https://www.visualcapitalist.com/)
 
+### 5.2. Presentation
+ - [Slido](https://slido.com)
+
 ## 6. AI
 
-### 6.0. 生成式AI
+### 6.0. Generative AI
 
 - [初学者课程](https://microsoft.github.io/generative-ai-for-beginners/#/translations/cn/)
 - [动手实战人工智能](https://ai.huhuhang.com/intro)
 - [初学者机器学习](https://microsoft.github.io/ML-For-Beginners/#/)
 
-### 6.1. 提示词
+### 6.1. Prompts
 
 - [PromptPerfect](https://promptperfect.jina.ai/)
 - [GPT Prompt](https://github.com/linexjlin/GPTs)
