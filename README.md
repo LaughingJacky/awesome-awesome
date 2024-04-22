@@ -147,6 +147,8 @@ Collections of awesome browser-side. Just for fun & index
 - [清华计算机](https://rekcarc-tsc-uht.readthedocs.io/en/latest/index.html)
 - [系统设计](https://github.com/donnemartin/system-design-primer)
 - [SwiftUI](https://cs193p.sites.stanford.edu/2023)
+- [GitNation](https://portal.gitnation.org/)
+- [TechTalkWeekly](https://techtalksweekly.substack.com/p/top-tech-talks-of-2023)
 
 ### 4.5. History
 
