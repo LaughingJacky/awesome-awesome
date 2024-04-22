@@ -26,7 +26,8 @@ Collections of awesome browser-side. Just for fun & index
   - [2.1. Puppeteer](#21-Puppeteer)
 - [3. Engineering](#3-Engineering)
   - [3.0. Compiler](#30-Compiler)
-  - [3.1. Cli Tools](#31-ClI-Tools)
+  - [3.1. Cli Tools](#31-Cli-Tools)
+  - [3.2. Micro Frontend](#32-Micro-Frontend)
 - [4. FullStack](#4-FullStack)
   - [4.0. Nextjs](#40-Nextjs)
   - [4.1. Rust](#41-Rust)
@@ -111,7 +112,7 @@ Collections of awesome browser-side. Just for fun & index
 - [Sucrase](https://sucrase.io/)
 - [SWC](https://swc.rs/)
 
-### 3.1. CLI Tools
+### 3.1. Cli Tools
 
 - [yargs](https://github.com/yargs/yargs)
 - [prompts](https://github.com/terkelg/prompts)
@@ -121,6 +122,12 @@ Collections of awesome browser-side. Just for fun & index
 - [configstore](https://github.com/yeoman/configstore)
 - [envinfo](https://github.com/tabrindle/envinfo)
 - [zx](https://github.com/google/zx)
+
+### 3.2. Micro Frontend
+- [Bit](https://bit.dev/)
+- [oc](https://opencomponents.github.io/)
+- [qiankun](https://github.com/umijs/qiankun)
+- [piral](https://piral.io/)
 
 ## 4. FullStack
 
