@@ -120,6 +120,7 @@ Collections of awesome browser-side. Just for fun & index
 - [progress](https://github.com/visionmedia/node-progress)
 - [configstore](https://github.com/yeoman/configstore)
 - [envinfo](https://github.com/tabrindle/envinfo)
+- [zx](https://github.com/google/zx)
 
 ## 4. FullStack
 
@@ -146,6 +147,7 @@ Collections of awesome browser-side. Just for fun & index
 - [系统设计101](https://github.com/ByteByteGoHq/system-design-101)
 - [清华计算机](https://rekcarc-tsc-uht.readthedocs.io/en/latest/index.html)
 - [系统设计](https://github.com/donnemartin/system-design-primer)
+- [健壮Shell编写指南](https://liujiacai.net/blog/2024/04/05/robust-shell-scripting/)
 - [SwiftUI](https://cs193p.sites.stanford.edu/2023)
 - [GitNation](https://portal.gitnation.org/)
 - [TechTalkWeekly](https://techtalksweekly.substack.com/p/top-tech-talks-of-2023)
