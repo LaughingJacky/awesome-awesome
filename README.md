@@ -192,6 +192,14 @@ Collections of awesome browser-side. Just for fun & index
 - [PromptPerfect](https://promptperfect.jina.ai/)
 - [GPT Prompt](https://github.com/linexjlin/GPTs)
 
+### 6.2. Online Service
+- [OpenAI](https://chat.openai.com)
+- [Anthropic](https://claude.ai)
+- [Meta](https://meta.ai)
+- [Mistral](https://mistral.ai)
+- [Kimi](https://kimi.ai)
+- [LLAMA](https://llama3.dev/)
+
 ## -1. Others
 
 ### -1.0. Wordle
