@@ -159,6 +159,7 @@ Collections of awesome browser-side. Just for fun & index
 - [GitNation](https://portal.gitnation.org/)
 - [TechTalkWeekly](https://techtalksweekly.substack.com/p/top-tech-talks-of-2023)
 - [Linux内核教学](https://linux-kernel-labs-zh.xyz/index.html)
+- [How to Start a Startup](https://startupclass.samaltman.com/)
 
 ### 4.5. History
 
