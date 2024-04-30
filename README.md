@@ -221,6 +221,7 @@ Collections of awesome browser-side. Just for fun & index
 ### -1.3. Blog
 
 - [AddyOsmani](https://addyosmani.com/blog/)
+- [skwee357](https://www.yieldcode.blog/)
 
 ### -1.4. 周刊
  - [MDH](https://mdhweekly.com/weekly)
