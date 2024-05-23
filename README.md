@@ -187,6 +187,7 @@ Collections of awesome browser-side. Just for fun & index
 - [初学者课程](https://microsoft.github.io/generative-ai-for-beginners/#/translations/cn/)
 - [动手实战人工智能](https://ai.huhuhang.com/intro)
 - [初学者机器学习](https://microsoft.github.io/ML-For-Beginners/#/)
+- [GoogleAiEdge](https://github.com/google-ai-edge)
 
 ### 6.1. Prompts
 
