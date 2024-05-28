@@ -141,7 +141,7 @@ Collections of awesome browser-side. Just for fun & index
 - [This Week in Rust](https://this-week-in-rust.org/)
 - [Rust100k](https://matklad.github.io/2021/09/05/Rust100k.html)
 - [RustWASM](https://rustwasm.github.io/)
-- [](https://rust-exercises.com/)
+- [RustExercise](https://rust-exercises.com/)
 
 ### 4.3. Bun
 
