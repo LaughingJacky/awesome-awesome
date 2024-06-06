@@ -181,6 +181,9 @@ Collections of awesome browser-side. Just for fun & index
 ### 5.2. Presentation
  - [Slido](https://slido.com)
 
+### 5.3. Anonymous
+ - [Email](https://email.ml/)
+
 ## 6. AI
 
 ### 6.0. Generative AI
@@ -236,6 +239,7 @@ Collections of awesome browser-side. Just for fun & index
 
 - [Holiday](https://timor.tech/api/holiday)
 - [List_of_days_of_the_year](https://en.wikipedia.org/wiki/List_of_days_of_the_year)
+- [PublicApi](https://publicapis.io/)
 
 ### -3.0. DIY
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
