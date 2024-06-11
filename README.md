@@ -240,6 +240,7 @@ Collections of awesome browser-side. Just for fun & index
 - [Holiday](https://timor.tech/api/holiday)
 - [List_of_days_of_the_year](https://en.wikipedia.org/wiki/List_of_days_of_the_year)
 - [PublicApi](https://publicapis.io/)
+- [300 API](https://dev.to/falselight/300-free-apis-every-developer-needs-to-know-3j76)
 
 ### -3.0. DIY
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
