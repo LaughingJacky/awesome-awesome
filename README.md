@@ -247,6 +247,15 @@ Collections of awesome browser-side. Just for fun & index
 
 - [AddyOsmani](https://addyosmani.com/blog/)
 - [skwee357](https://www.yieldcode.blog/)
+- [Netflix TechBlog](https://netflixtechblog.com/)
+- [Cloudflare Blog](https://blog.cloudflare.com)
+- [Engineering FB](https://engineering.fb.com/)
+- [Uber Blog](https://www.uber.com/en-HK/blog/)
+- [Stripe Blog](https://stripe.com/blog)
+- [Slack Engineering](https://slack.engineering/)
+- [AWS Architecture](https://aws.amazon.com/cn/architecture/)
+- [Discord  Blog](https://discord.com/blog)
+- [LinkedIn Engineering](https://engineering.linkedin.com/)
 
 ### -1.4. 周刊
  - [MDH](https://mdhweekly.com/weekly)
