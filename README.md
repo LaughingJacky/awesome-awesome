@@ -280,3 +280,9 @@ Collections of awesome browser-side. Just for fun & index
 
 ### -5.0. Entertainment
 - [MorseCode](https://www.perry.qa/morse)
+
+## -2. Hackers List
+- [Goose](https://goose.icu/)
+- [elly](https://donotsta.re/elly)
+- [Merlin](https://scholz.ruhr/)
+- [nwex](https://nwex.de/)
