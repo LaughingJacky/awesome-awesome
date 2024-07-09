@@ -65,6 +65,7 @@ Collections of awesome browser-side. Just for fun & index
 ### 0.1. CSS
 
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+- [Mesh Gradient](https://www.mshr.app/)
 
 ### 0.2. Browser
 
