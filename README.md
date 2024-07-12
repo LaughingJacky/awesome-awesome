@@ -257,6 +257,7 @@ Collections of awesome browser-side. Just for fun & index
 - [AWS Architecture](https://aws.amazon.com/cn/architecture/)
 - [Discord  Blog](https://discord.com/blog)
 - [LinkedIn Engineering](https://engineering.linkedin.com/)
+- [Lawrence](https://www.teamten.com/lawrence/)
 
 ### -1.4. 周刊
  - [MDH](https://mdhweekly.com/weekly)
