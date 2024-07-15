@@ -73,6 +73,7 @@ Collections of awesome browser-side. Just for fun & index
 
 - [浏览器原理学习笔记](https://blog.csxiaoyao.com/archives/474)
 - [RenderingNG](https://developer.chrome.com/blog/renderingng-architecture/)
+- [Web Status](https://webstatus.dev/)
 
 ### 0.3. Code OCD
 
