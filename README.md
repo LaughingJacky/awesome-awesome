@@ -66,6 +66,7 @@ Collections of awesome browser-side. Just for fun & index
 
 - [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 - [Mesh Gradient](https://www.mshr.app/)
+- [Clip Path](https://emilkowal.ski/ui/the-magic-of-clip-path)
 
 ### 0.2. Browser
 
