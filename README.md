@@ -62,6 +62,7 @@ Collections of awesome browser-side. Just for fun & index
 - [30 Seconds of JS](https://30secondsofcode.org/)
 - [js](https://github.com/sorrycc/awesome-javascript)
 - [jsrobot](https://lab.reaal.me/jsrobot/)
+- [ExploringJS](https://exploringjs.com/js/book/index.html)
 
 ### 0.1. CSS
 
