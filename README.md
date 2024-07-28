@@ -27,6 +27,7 @@ Collections of awesome browser-side. Just for fun & index
   - [2.1. Deno](#21-Deno)
   - [2.2. Bun](#22-Bun)
   - [2.3. WebAssembly](#23-WebAssembly)
+  - [2.4. RTOS](#24-RTOS)
 - [3. Engineering](#3-Engineering)
   - [3.0. Compiler](#30-Compiler)
   - [3.1. Cli Tools](#31-Cli-Tools)
@@ -122,6 +123,11 @@ Collections of awesome browser-side. Just for fun & index
 ### 2.3. WebAssembly
 
 - [WebVM](https://webvm.io/)
+
+### 2.4. RTOS
+
+- [RTEMS](https://www.rtems.org/)
+- [FreeRTOS](https://www.freertos.org/)
 
 ## 3. Engineering
 
