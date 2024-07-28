@@ -26,6 +26,7 @@ Collections of awesome browser-side. Just for fun & index
   - [2.0. Node](#20-Node)
   - [2.1. Deno](#21-Deno)
   - [2.2. Bun](#22-Bun)
+  - [2.3. WebAssembly](#23-WebAssembly)
 - [3. Engineering](#3-Engineering)
   - [3.0. Compiler](#30-Compiler)
   - [3.1. Cli Tools](#31-Cli-Tools)
@@ -117,6 +118,10 @@ Collections of awesome browser-side. Just for fun & index
 
 - [Node](https://github.com/sindresorhus/awesome-nodejs)
 
+### 2.3. WebAssembly
+
+- [WebVM](https://webvm.io/)
+
 ## 3. Engineering
 
 ### 3.0. Compiler
@@ -154,6 +159,7 @@ Collections of awesome browser-side. Just for fun & index
 - [Rust100k](https://matklad.github.io/2021/09/05/Rust100k.html)
 - [RustWASM](https://rustwasm.github.io/)
 - [RustExercise](https://rust-exercises.com/)
+- [Easy Rust](https://github.com/Dhghomon/easy_rust)
 
 ### 4.2. Swift
 
