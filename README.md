@@ -221,6 +221,7 @@ Collections of awesome browser-side. Just for fun & index
 - [动手实战人工智能](https://ai.huhuhang.com/intro)
 - [初学者机器学习](https://microsoft.github.io/ML-For-Beginners/#/)
 - [GoogleAiEdge](https://github.com/google-ai-edge)
+- [Ollama](https://ollama.com/)
 
 ### 6.1. Prompts
 
@@ -242,6 +243,7 @@ Collections of awesome browser-side. Just for fun & index
 - [AFrame](https://aframe.io/)
 - [ReactThreeFiber](https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
 - [Threejs](https://www.npmjs.com/package/three-gpu-pathtracer)
+- [WGPU](https://wgpu.rs/)
 
 ## -1. Others
 
