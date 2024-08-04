@@ -43,6 +43,7 @@ Collections of awesome browser-side. Just for fun & index
   - [5.2. Presentation](#52-Presentation)
   - [5.3. Anonymous](#53-Anonymous)
   - [5.4. Puppeteer](#54-Puppeteer)
+  - [5.5. Benchmark](#55-Benchmark)
 - [6. AI](#6-AI)
   - [6.0. Generative AI](#60-GEnerative-AI)
   - [6.1. Prompts](#61-Prompts)
@@ -212,6 +213,13 @@ Collections of awesome browser-side. Just for fun & index
 ### 5.4. Puppeteer
 
 - [Test website performance with Puppeteer](https://michaljanaszek.com/blog/test-website-performance-with-puppeteer)
+
+### 5.5. Benchmark
+
+- [CPUUserBenchmark](https://cpu.userbenchmark.com)
+- [FrameView](https://www.nvidia.cn/geforce/technolygies/frameview)
+- [Furmark](https://geeks3d.com/furmark)
+- [Heaven](https://benchmark.unigine.com/heaven)
 
 ## 6. AI
 
