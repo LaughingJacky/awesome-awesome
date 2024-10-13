@@ -230,6 +230,8 @@ Collections of awesome browser-side. Just for fun & index
 - [初学者机器学习](https://microsoft.github.io/ML-For-Beginners/#/)
 - [GoogleAiEdge](https://github.com/google-ai-edge)
 - [Ollama](https://ollama.com/)
+- [Dario Amodei](https://darioamodei.com/)
+- [Sam Altman](https://blog.samaltman.com/)
 
 ### 6.1. Prompts
 
