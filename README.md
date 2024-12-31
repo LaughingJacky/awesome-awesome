@@ -89,7 +89,7 @@ Collections of awesome browser-side. Just for fun & index
 - [vue or react?That's a question.](https://juejin.im/post/5dad09be518825393e52d1bd)
 
 ### 1.0. React
-
+- [Bulletproof React](https://github.com/alan2207/bulletproof-react)
 - [React](https://github.com/enaqx/awesome-react)
 - [React Render Tracker](https://github.com/lahmatiy/react-render-tracker)
 - [React Fiber](https://juejin.im/post/5dadc6045188255a270a0f85#heading-0)
@@ -112,6 +112,7 @@ Collections of awesome browser-side. Just for fun & index
 ### 2.0. Node
 
 - [Node](https://github.com/sindresorhus/awesome-nodejs)
+- [Node Best Practice](https://github.com/goldbergyoni/nodebestpractices)
 
 ### 2.1. Deno
 
