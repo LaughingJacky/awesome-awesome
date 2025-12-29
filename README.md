@@ -110,7 +110,7 @@ Collections of awesome browser-side. Just for fun & index
 
 ### 1.3. Electron
 
-- [Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
+- [2025 Electron Review](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 
 ## 2. Runtime
 
