@@ -22,6 +22,7 @@ Collections of awesome browser-side. Just for fun & index
   - [1.0. React](#10-React)
   - [1.1. Angular](#11-Angular)
   - [1.2. Nest](#12-Nest)
+  - [1.3. Electron](#13-Electron)
 - [2. Runtime](#2-Runtime)
   - [2.0. Node](#20-Node)
   - [2.1. Deno](#21-Deno)
@@ -106,6 +107,10 @@ Collections of awesome browser-side. Just for fun & index
 ### 1.2. Nest
 
 - [Nest](https://nestjs.com/)
+
+### 1.3. Electron
+
+- [Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 
 ## 2. Runtime
 
