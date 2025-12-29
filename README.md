@@ -66,6 +66,7 @@ Collections of awesome browser-side. Just for fun & index
 - [js](https://github.com/sorrycc/awesome-javascript)
 - [jsrobot](https://lab.reaal.me/jsrobot/)
 - [ExploringJS](https://exploringjs.com/js/book/index.html)
+- [关于谷歌文档和v8的一个神秘bug](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
 
 ### 0.1. CSS
 
