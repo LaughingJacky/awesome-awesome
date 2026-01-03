@@ -284,7 +284,7 @@ Collections of awesome browser-side. Just for fun & index
 
 ### -1.2. Blog
 
-- [Mishalaskin](https://www.misalaskin.com/)
+- [Mishalaskin](https://www.mishalaskin.com/)
 - [sholtodouglas](https://sholtodouglas.github.io/about/)
 - [AddyOsmani](https://addyosmani.com/blog/)
 - [skwee357](https://www.yieldcode.blog/)
