@@ -281,6 +281,8 @@ Collections of awesome browser-side. Just for fun & index
 
 ### -1.3. Blog
 
+- [Mishalaskin](https://www.misalaskin.com/)
+- [sholtodouglas](https://sholtodouglas.github.io/about/)
 - [AddyOsmani](https://addyosmani.com/blog/)
 - [skwee357](https://www.yieldcode.blog/)
 - [Netflix TechBlog](https://netflixtechblog.com/)
