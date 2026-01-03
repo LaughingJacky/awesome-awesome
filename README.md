@@ -277,6 +277,10 @@ Collections of awesome browser-side. Just for fun & index
 ### -1.1. Channel
 
 - [GUI Challenges](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ)
+- [No Priors](https://www.youtube.com/@NoPriorsPodcast)
+- [Google DeepMind](https://www.youtube.com/playlist?list=PLqYmG7hTraZBiUr6_Qf8YTS2Oqy3OGZEj)
+- [Acquired](https://www.youtube.com/@AcquiredFM)
+- [LexFridman](https://www.youtube.com/@lexfridman)
 
 ### -1.2. Blog
 
