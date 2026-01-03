@@ -53,6 +53,9 @@ Collections of awesome browser-side. Just for fun & index
   - [7.0. WebGPU](#70-WebGPU)
 - [-1. Others](#-1-Others)
   - [-1.0. Wordle](#-10-Wordle)
+  - [-1.1. Channel](#-11-Channel)
+  - [-1.2. Blog](#-12-Blog)
+  - [-1.3. Weekly](#-13-Weekly)
   - [-2.0. Open Data API](#-20-Open-Data-API)
   - [-3.0. DIY](#-30-Build-Your-Own-X)
   - [-4.0. Music](#-40-Music)
@@ -275,11 +278,7 @@ Collections of awesome browser-side. Just for fun & index
 
 - [GUI Challenges](https://www.youtube.com/playlist?list=PLNYkxOF6rcIAaV1wwI9540OC_3XoIzMjQ)
 
-### -1.2. Financial
-
-- [黄海](https://space.bilibili.com/1163425648)
-
-### -1.3. Blog
+### -1.2. Blog
 
 - [Mishalaskin](https://www.misalaskin.com/)
 - [sholtodouglas](https://sholtodouglas.github.io/about/)
@@ -296,12 +295,11 @@ Collections of awesome browser-side. Just for fun & index
 - [LinkedIn Engineering](https://engineering.linkedin.com/)
 - [Lawrence](https://www.teamten.com/lawrence/)
 
-### -1.4. 周刊
+### -1.3. Weekly
  - [MDH](https://mdhweekly.com/weekly)
  - [FE News](https://rottenpen.zhubai.love/)
  - [ruanyf](https://github.com/ruanyf/weekly)
  - [潮流周刊](https://weekly.tw93.fun/)
-
 
 ### -2.0. Open Data API
 
