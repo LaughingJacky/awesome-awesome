@@ -71,6 +71,7 @@ Collections of awesome browser-side. Just for fun & index
 - [ExploringJS](https://exploringjs.com/js/book/index.html)
 - [关于谷歌文档和v8的一个神秘bug](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
 - [JS Dev Course](https://scrimba.com/learn-javascript-c0v)
+- [33 JS Concepts](https://33jsconcepts.com/)
 
 ### 0.1. CSS
 
